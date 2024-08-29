@@ -1,0 +1,68 @@
+*
+{
+    margin: 0px;
+
+}
+.padre
+{
+    background-color: blue;
+    padding: 80px;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    
+    
+    
+}
+.hijo
+{
+    background-color: red;
+    padding: 70px;
+    border-radius: 100px;
+    margin: 30px;
+    height: 10px;
+    width: 10px;
+
+}
+.nieto
+{
+    background-color: yellow;
+    padding: 60px;
+    border-radius: 100px;
+    height: 10px;
+    width: 10px;
+}
+.bisnieto
+{
+    background-color: green;
+    padding: 50px;
+    border-radius: 100px;
+    height: 10px;
+    width: 10px;
+}
+.nivel5
+{
+    background-color: orange;
+    padding: 40px;
+    border-radius: 100px;
+    height: 10px;
+    width: 10px;
+}
+.nivel6
+{
+    background-color:darkgray;
+    padding: 30px;
+    border-radius: 100px;
+    height: 10px;
+    width: 10px;
+}
+.nivel7
+{
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 100px;
+    height: 10px;
+    width: 10px;
+}
+/* quiero tipo gusanito osea el padre  debe abarcar todo y dentro del deben estar los hijos pero en redondos */
